@@ -36,6 +36,6 @@ git clone https://github.com/UDAIBHAT/PROJECT_CHESS.git
 
 <h3> Demo </h3>
 
-<a href="                   "> Demo </a>
+<a href="https://udaibhat.github.io/PROJECT_CHESS/"> Demo </a>
 
 <br>
